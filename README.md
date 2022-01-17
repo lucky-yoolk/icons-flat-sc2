@@ -1,6 +1,6 @@
 FLAT STARCRAFT ICONS
 ==============
 
-Free icons replacement for Starcraft 2
+Free flat icons of Starcraft 2
 
-https://synth.agency/iconset/starcraft/
+https://yoolk.ninja/iconset/starcraft/
